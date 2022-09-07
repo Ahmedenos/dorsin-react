@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dorsin-react/static/css/main.cab6bfba.css",
+    "main.js": "/dorsin-react/static/js/main.f9748f91.js",
+    "static/js/787.a0793712.chunk.js": "/dorsin-react/static/js/787.a0793712.chunk.js",
+    "static/media/profile.jpg": "/dorsin-react/static/media/profile.03c94a50dea45f3988d3.jpg",
+    "static/media/potfoli1.jpg": "/dorsin-react/static/media/potfoli1.8a3436d89103dd940966.jpg",
+    "static/media/feature.png": "/dorsin-react/static/media/feature.665ca70e3b3b5e6fb7d6.png",
+    "static/media/bg-home.jpg": "/dorsin-react/static/media/bg-home.54f33acfa5a76720d4d5.jpg",
+    "static/media/blog3.jpg": "/dorsin-react/static/media/blog3.e02d84248dcb45f33e4d.jpg",
+    "static/media/blog2.jpg": "/dorsin-react/static/media/blog2.61d6433c399c7e0421dc.jpg",
+    "static/media/blog1.jpg": "/dorsin-react/static/media/blog1.92858176864301ab837a.jpg",
+    "static/media/member3.jpg": "/dorsin-react/static/media/member3.b6cd3b7bfbb862af23bd.jpg",
+    "static/media/member1.jpg": "/dorsin-react/static/media/member1.10c56f8a450226f6e40c.jpg",
+    "static/media/member4.jpg": "/dorsin-react/static/media/member4.6ab39f2f11cd8d1155b7.jpg",
+    "static/media/member2.jpg": "/dorsin-react/static/media/member2.ca8041d7759bc795b22f.jpg",
+    "index.html": "/dorsin-react/index.html",
+    "main.cab6bfba.css.map": "/dorsin-react/static/css/main.cab6bfba.css.map",
+    "main.f9748f91.js.map": "/dorsin-react/static/js/main.f9748f91.js.map",
+    "787.a0793712.chunk.js.map": "/dorsin-react/static/js/787.a0793712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab6bfba.css",
+    "static/js/main.f9748f91.js"
+  ]
+}
